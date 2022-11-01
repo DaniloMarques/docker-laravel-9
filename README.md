@@ -78,8 +78,6 @@
 
 ## Testing the project
 
-The project already has unit tests (PHPUnit) that test all available endpoints and also other system features.
-
 ### To run the unit tests, perform the following steps:
 
 1. With the system running, access the docker container `app` via bash.
